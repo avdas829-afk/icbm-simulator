@@ -1,0 +1,6 @@
+{
+  "name": "Control Room Simulator",
+  "description": "Tactical control room flight dashboard and guidance simulation with telemetry, radar, and launch path controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
